@@ -190,11 +190,11 @@ print(f"🏢 Company: {me.current_work['🏢 Company']}")
   │      • Taught Python, HTML, Networking            │
   │                                                   │
   ├── 👨‍🏫 CS Teacher @ Scholar's Heaven School         │
-  │      Nov 2025 ──── Present                        │
+  │      Nov 2025 ──── March 2026                     │
   │      • Teaching Python, AI, Robotics, Scratch     │
   │                                                   │
   └── 🏢 Python & AI Developer @ Zimong Software ────►│
-         2025 ──────────────────── Present            │
+         April 2026 ──────────────────── Presen       │
          • Building AI-Enhanced OMR Reader            │
          • Stack: Django, CNN, ML, DL, SQL, OpenCV    │
 ```
